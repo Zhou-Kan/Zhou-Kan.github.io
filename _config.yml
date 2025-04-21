@@ -40,7 +40,6 @@ author:
   pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
-  leetcode         : "123"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -75,6 +74,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  leetcode         : "123"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
