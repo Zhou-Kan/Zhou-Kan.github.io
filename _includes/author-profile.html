@@ -157,7 +157,11 @@
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}   
       {% if author.leetcode %}
-      <li><a href="https://leetcode.com/u/{{ author.leetcode }}"><i class="fab fa-fw fa-leetcode icon-pad-right" aria-hidden="true"></i>Leetcode</a></li>
+      <li>
+        <a href="https://leetcode.com/u/{{ author.leetcode }}" target="_blank">
+          <img src="/assets/icons/leetcode.svg" alt="LeetCode" class="svg-icon icon-pad-right">Leetcode
+        </a>
+      </li>
       {% endif %}    
     </ul>
   </div>
