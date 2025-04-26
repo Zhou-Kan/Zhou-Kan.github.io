@@ -18,5 +18,5 @@ Besides work, I like playing video games and traveling.
 
 
 ---
-## Publicaitons and Projects
+## Publications and Projects
 - My work [Pedestrian re-ID based on deep feature](https://ieeexplore.ieee.org/abstract/document/9019203) 
