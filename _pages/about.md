@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> <font size=3>love the life you live,live the life you love.  ——Bob Marley </font>
+> <font size=3>   人生无处不青山  ——毛泽东 </font>
 ---
 
 I'm a software engineer from China. Neither my undergraduate nor my graduate major in China was computer science—I only started studying computer science after going abroad. If you ask me why I switched to computer science, maybe I just wanted an excuse to go here. But I know that I enjoy coding, even though there's still a lot for me to learn.
